@@ -56,3 +56,4 @@ lib/
 
 test-program
 .DS_Store
+.vscode
